@@ -1,10 +1,16 @@
-
-﻿#forecast {
-    position: absolute;
-    left: -4%;
+.navbar-brand {
+    font-size: 36px;
 }
 
-h1 {
-    margin-bottom: 0%;
-    background-image: linear-gradient(to right, rgb(78, 186, 236) , rgb(190, 109, 245));
+.search-header {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.city-name {
+    font-size: 30px;
+}
+
+.forecast-date {
+    font-size: 18px;
 }
