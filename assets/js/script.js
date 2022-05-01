@@ -13,7 +13,7 @@ function initPage() {
   let searchHistory = JSON.parse(localStorage.getItem("search")) || [];
   console.log(searchHistory);
 
-  const APIKey = "c9a9ed03a355403f4cb9a36e931c0b4a";
+  const APIKey = "e6199305f0308618e7ffc3b39b0ab339";
   //  When search button is clicked, read the city name typed by the user
 
   function getWeather(cityName) {
