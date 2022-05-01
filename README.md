@@ -8,7 +8,7 @@ Created a dashboard that uses the [OpenWeather API](https://openweathermap.org/a
 
 The following image demonstrates the application functionality:
 
-![deployed-image](/images/README.md.png) 
+![deployed-image](/images/README.md1.png) 
 
 
 ## User Story
