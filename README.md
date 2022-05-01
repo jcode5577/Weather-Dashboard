@@ -4,7 +4,7 @@
 Created a dashboard that uses the [OpenWeather API](https://openweathermap.org/api) to retrieve weather data for cities that are searched for by user. Uses `localStorage` to store any cities that have been searched for prior and allows user to call them up quickly.  
 
 
-**Live application deployed at: 
+**Live application deployed at: https://626ef103299e45137d69279f--scintillating-narwhal-d74db6.netlify.app/
 
 The following image demonstrates the application functionality:
 
